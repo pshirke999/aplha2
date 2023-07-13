@@ -1,0 +1,51 @@
+body
+{
+    margin: 0px;
+    padding-left: 20px;
+    font-family: 'Source Sans 3', sans-serif;
+    background-image: url(./images/ipl\ trophy.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Source Sans 3', sans-serif;
+}
+#HeaderSection
+{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 15px;
+}
+#parent
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+div
+{
+    display: flex;
+    align-items: center;
+}
+#middle
+{
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 57px;
+    margin-top: 30px;
+    gap: 13px;
+}
+#right
+{
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    list-style-type: none;
+    margin-left: 822px;
+    margin-top: 27px;
+}
+#Parent #right button
+{
+    border-radius: 5px;
+}

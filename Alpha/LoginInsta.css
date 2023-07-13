@@ -1,0 +1,57 @@
+#loginform {
+    border: 2px solid #dbdbdb;
+    text-align: center;
+    width:26%;
+    margin:auto;
+}
+
+#loginform #lp{
+
+    margin-bottom: 10px;
+    border: 2px solid #dbdbdb;
+    border-radius: 5px;
+}
+
+#loginform button{
+width: 182px;
+height: 23px;
+background-color: #4cb5f9;
+border-radius: 5px;
+color: white;
+border: none;
+font-size: medium;
+font-weight: bold;
+margin-bottom: 20px;
+
+}
+
+#forgotton1{
+margin-top: 20px;
+}
+
+#second {
+    border: 2px solid #dbdbdb;
+    text-align: center;
+    width:26%;
+    margin: auto;
+}
+
+#image2 #lll{
+
+    justify-content: center;
+    width: 240px;
+    text-align: center;
+}
+#image2{
+
+    width: 26%;
+    margin: auto;
+    display: flex;
+    
+}
+
+#gp{
+    display: flex;
+    width: 106%;
+    margin: auto;
+}
